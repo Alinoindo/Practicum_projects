@@ -28,4 +28,4 @@
 Необходимо разобраться в причинах убытков и помочь компании выйти в плюс.
 
 ## Используемые библиотеки
-*pandas*, *matplotlib*, *numpy*, *datetime*
+*pandas*, *matplotlib*, *numpy*, *datetime*, *scipy*
